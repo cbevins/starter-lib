@@ -35,3 +35,10 @@ npm run test:coverage
 npm run test:watch
 npm run build
 ```
+
+## Git
+
+Create a new GitHub repo without a .gitignore, README.md or LICENSE file.  Then copy the new GIT repo URL and paste it into the following command line:
+```
+ git remote add origin remote-repository-URL
+ ```

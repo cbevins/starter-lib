@@ -33,8 +33,11 @@ call npm i -D rimraf
 call npm i -D rollup
 call npm i -D rollup-plugin-terser
 call npm i -D rollup-plugin-uglify
+call git init
 echo Next steps:
-echo Edit package.json description, keywords, etc
+echo - Read the README.md
+echo - Edit package.json name, version, description, keywords, repository, homepage, etc
+echo - git add remote origin
 goto end
 :useage
 echo USEAGE: setup-lib folder

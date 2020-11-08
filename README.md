@@ -1,4 +1,21 @@
-# cbevins/starter-lib
+# cbevins/template-node-lib
+
+A template repository for development of Node module libraries with rollup, jest, eslint, coveralls, and babel.
+
+To create a new repository from this template, press the green `Use this template` button on this page.  Enter the new repo name and description, and copy the new repo's URL.
+
+From your computer, enter:
+```
+> git clone https://github.com/cbevins/new-repo-name.git
+> cd new-repo-name
+> npm install
+```
+
+Modify the `package.json` file and apply the new repo name.
+
+---
+
+# Previous installation Notes
 
 A custom starter package for projects that produce an NPM library package.
 

@@ -1,2 +1,2 @@
 import { hello } from './src/index.js'
-hello()
+console.log(hello())

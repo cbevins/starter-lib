@@ -1,4 +1,4 @@
-# cbevins/template-node-lib
+#  ![](favicon.png) cbevins/template-node-lib
 
 A template repository for development of Node module libraries with rollup, jest, eslint, coveralls, and babel.
 
@@ -15,7 +15,7 @@ Modify the `package.json` file and apply the new repo name.
 
 ---
 
-# Previous installation Notes
+#  ![](favicon.png) Previous installation Notes
 
 A custom starter package for projects that produce an NPM library package.
 

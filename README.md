@@ -1,6 +1,6 @@
 #  ![](favicon.png) cbevins/template-node-lib
 
-A template repository for development of Node module libraries with rollup, jest, eslint, coveralls, and babel.
+A template repository for development of Node module libraries with rollup, jest, eslint, coveralls, and babel packages.
 
 To create a new repository from this template, press the green `Use this template` button on this page.  Enter the new repo name and description, and copy the new repo's URL.
 

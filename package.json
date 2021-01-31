@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/cbevins/template-node-variant/issues"
   },
-  "homepage": "https://github.com/cbevins/template-node-variantreadme",
+  "homepage": "https://github.com/cbevins/template-node-variant/readme",
   "main": "./dist/bundle.cjs.js",
   "exports": "./dist/bundle.esm.js",
   "module": "./dist/bundle.esm.js",

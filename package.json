@@ -86,7 +86,5 @@
     "rollup-plugin-terser": "~7",
     "rollup-plugin-uglify": "~6"
   },
-  "dependencies": {
-    "npm-upgrade": "3.0.0"
-  }
+  "dependencies": {}
 }

@@ -9,6 +9,7 @@ From your computer, enter:
 > git clone https://github.com/cbevins/new-repo-name.git
 > cd new-repo-name
 > npm install
+> eslint --init
 ```
 
 Modify the `package.json` file and apply the new repo name.
